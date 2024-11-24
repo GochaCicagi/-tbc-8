@@ -90,7 +90,8 @@
     margin-right: 98px;
     display: flex;
     flex-wrap: wrap;
-    gap: 33px;
+    gap: 56px 33px; 
+    margin-bottom: 140px;
 }
 .sec2{
     display: flex;
@@ -106,6 +107,86 @@
     margin-bottom: 9px;
 }
 .pp2{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp3{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp4{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp5{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp6{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp7{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp8{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp9{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp10{color: #636060;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.pp11{color: #343232;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 9px;
+}
+.pp12{color: #636060;
     font-family: "IBM Plex Sans", sans-serif;
     font-size: 18px;
     font-style: normal;
