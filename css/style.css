@@ -1,6 +1,10 @@
+
 .container{
     width: 1440px;
     margin: auto;
+    background-color: #F1F1F1;
+    margin-bottom: 90px;
+    margin-top: 10px;
 }
 .header{
     height: 84px;
@@ -91,7 +95,6 @@
     display: flex;
     flex-wrap: wrap;
     gap: 56px 33px; 
-    margin-bottom: 140px;
 }
 .sec2{
     display: flex;
