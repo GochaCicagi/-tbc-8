@@ -1,0 +1,54 @@
+.container{
+    width: 1440px;
+    margin: auto;
+}
+.header{
+    height: 84px;
+    display: flex;
+    justify-content: space-between;
+}
+.bu{
+    width: 33px;
+    height: 42px;
+    margin-left: 99px;
+    margin-top: 24px
+}
+.ul{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 33px;
+    margin-right: 78px;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #636060;
+}
+.sec1{
+    background-image: url(../images/Rectangle\ 1.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 606px;
+    flex-wrap: wrap;
+    gap: 700px;
+    position: relative;
+}
+.ragaca{
+    color: #FFF;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 79px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.ragaca2{
+    color: #FFF;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    top: 60%;
+}
